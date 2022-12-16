@@ -1,0 +1,14 @@
+{
+    "data" : {
+        "welcomes": ["hey", "hello", "aloha", "Ola", "Yo", "Good Morning", "Good Afternoon", "Good Evening", "Good Night"],
+        "byes" : ["bye", "cya", "see you later", "byee", "Have a nice day", "l8r"],
+        "Hrw's" : ["How are you", "Hrw", "Are you okay", "How's life", "How are ya", "What's new", "Wassup", "How's everything ?"],
+        "Schedule_task" : ["Could you remind me something", "Set a timer", "Schedule a task", "Don't forget to remind me"],
+
+        "welcome_resp" : ["HEYA THERE !!", "Welcome my friend", "Hello Sir !", "Yo bro", "Hello, How are you doing ?"],
+        "bye_resp" : ["bye", "cya", "see you later", "byee", "Have a nice day", "l8r", "Bye sir", "See ya !"],
+        "Hrw's_resp" : ["Good How about you", "Doing just fine !", "Absolutely brilliant", "Living life to the fullest !", "Having a fun time !!"]
+
+    }
+
+}
